@@ -5,8 +5,8 @@ Shape Change Modding Documentation.
 Here's simple explaination on what everything is:
 
 
-Installation.md - explains how to install mods.
+<b>Installation.md</b> - explains how to install mods.
 
-ModCreation.md - explains how to create mods.
+<b>ModCreation.md</b> - explains how to create mods.
 
-APIReference.md - list of classes, variables and methods Shape Change uses.
+<b>APIReference.md</b> - list of classes, variables and methods Shape Change uses.
