@@ -48,4 +48,4 @@ public class YourModName : Mod
  - Create icon for it. (Or not. It will be white square tho.)
  - Put the icon as icon.png.
  - You are ready to go!
- - Go into APIReferences.md because you can't properly mod without it. 
+ - Go into APIReference.md because you can't properly mod without it. 
