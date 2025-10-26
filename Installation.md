@@ -3,7 +3,7 @@ Put the .zip file into Mods folder in Shape Change or DG Shape Change folder.
 To figure out what you are running, remember what OS you are running.
 If earlier than Windows 7, then DG version. If not, Shape Change.
 
-Well that was long, wasn't it?
+Well that was long, wasn't it? (it wasn't)
 
 To check if it started, go into Sethings, ModLoader.
 If you can't find installed mod inside:
