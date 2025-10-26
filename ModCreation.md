@@ -1,4 +1,4 @@
-In order to create a MOD yourself you, uhhhhhhh, well l use Visual Studio 2019 (my ram screams help) and l do this:
+In order to create a C# MOD yourself you, uhhhhhhh, well l use Visual Studio 2019 (my ram screams help) and l do this:
 
  - Open VS 2019
  - Press "Create a new project"
@@ -49,3 +49,5 @@ public class YourModName : Mod
  - Put the icon as icon.png.
  - You are ready to go!
  - Go into APIReference.md because you can't properly mod without it. 
+
+Lua, Python, C mods are currently lacking ModCreation instructions. I have limited time, sorry.
