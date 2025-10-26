@@ -11,5 +11,5 @@ Here's simple explaination on what everything is:
 
 <b>APIReference.md</b> - list of classes, variables and methods Shape Change uses.
 
-<b>StartupModding.md</b> - what stuff can also be used for modding.
+<b>SupportedStartupScripts.md</b> - what stuff can also be used for modding.
 For now it lacks proper documentation and some things are untested.
