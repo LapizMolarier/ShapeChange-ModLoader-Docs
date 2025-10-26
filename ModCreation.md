@@ -51,13 +51,20 @@ public class YourModName : Mod
  - Go into APIReference.md because you can't properly mod without it.
 
 All you need is Python.
+
 Here's example script:
+
 MOD_NAME = "Example"
+
 MOD_DESCRIPTION = "Runs only on build index 0."
+
 ALLOWED_SCENES = ["0"]  # can use names or build indexes
 
+
 from UnityEngine import Debug
+
 Debug.Log(f"[{MOD_NAME}] Running in allowed scene!")
+
 You'll figure out everything else yourself, good luck! :)
 (i lack a bit of instructions)
 
