@@ -17,7 +17,7 @@ You CAN'T run DG Shape Change's mods in Shape Change and vise versa.
 You CAN however try replacing Shape Change's ModAPI.dll (in Managed folder inside _Data folder) to DG Shape Change's.
 
 In order to install Python mod into Shape Change you need to:
-Have Python installed and put .py file into Mods folder. (Unsupported for DG Shape Change)
+Have Python 3.9.13 installed and put .py file into Mods folder. (Unsupported for DG Shape Change)
 
 In order to install Lua mod into Shape Change you need to:
 Put lua file into Mods folder. (Unsupported for DG Shape Change)
