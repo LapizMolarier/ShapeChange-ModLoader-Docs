@@ -48,6 +48,17 @@ public class YourModName : Mod
  - Create icon for it. (Or not. It will be white square tho.)
  - Put the icon as icon.png.
  - You are ready to go!
- - Go into APIReference.md because you can't properly mod without it. 
+ - Go into APIReference.md because you can't properly mod without it.
 
-Lua, Python, C mods are currently lacking ModCreation instructions. I have limited time, sorry.
+All you need is Python.
+Here's example script:
+MOD_NAME = "Example"
+MOD_DESCRIPTION = "Runs only on build index 0."
+ALLOWED_SCENES = ["0"]  # can use names or build indexes
+
+from UnityEngine import Debug
+Debug.Log(f"[{MOD_NAME}] Running in allowed scene!")
+You'll figure out everything else yourself, good luck! :)
+(i lack a bit of instructions)
+
+Lua, C mods are currently lacking ModCreation instructions. I have limited time, sorry.
